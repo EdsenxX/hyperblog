@@ -45,4 +45,13 @@ body{
 #post h1{
     font-family: "Oswald";
     font-size: 1.5rem;
+
+}
+#footer{
+    font-size: 1.3rem;
+    font-family: "Montserrat";
+    text-align: center;
+    color: white;
+    background-color: deeppink;
+    padding: 0.5rem ;
 }
