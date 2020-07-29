@@ -2,20 +2,29 @@ body{
     color: #333;
     text-align: left;
     font-size: 10px;
-    font-family: Arial, Helvetica, sans-serif;
 }
 #cabecera{
-    background: #33A;
-    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.8);
+    background: deeppink;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.8);
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5rem; 
+    padding: 0.5rem;
+    font-size: 1.8rem;
+    display: flex;
+    align-items: center; 
+    font-family: "Oswald";
+}
+#cabecera #logo{
+    width: 2em;
+    height: 2em;
+    margin-right: 1rem;
 }
 #cabecera #tagline{
     margin: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+    font-family: "Montserrat";
 }
 #container{
     width: 70%;
@@ -29,5 +38,11 @@ body{
 }
 
 #post{
-
+    font-size: 1.2rem;
+    font-family: "Montserrat";
+    padding: 0 1rem;
+}
+#post h1{
+    font-family: "Oswald";
+    font-size: 1.5rem;
 }
