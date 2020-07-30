@@ -8,4 +8,5 @@ Contenido del curso
 * Buenas practicas
 
 [Proyecto del curso](https://edsenxx.github.io/hyperblog/)
+
 [Visita mi página web](https://edsen.dev )
