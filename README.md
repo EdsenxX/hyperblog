@@ -7,4 +7,5 @@ Contenido del curso
 * El flujo de trabajo en Github
 * Buenas practicas
 
+[Proyecto del curso](https://edsenxx.github.io/hyperblog/)
 [Visita mi página web](https://edsen.dev )
