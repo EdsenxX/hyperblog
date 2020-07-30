@@ -6,6 +6,7 @@ Contenido del curso
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * Buenas practicas
+* Creado por el increible Platzi team
 
 [Proyecto del curso](https://edsenxx.github.io/hyperblog/)
 [Visita mi página web](https://edsen.dev )
