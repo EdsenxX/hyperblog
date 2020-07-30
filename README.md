@@ -8,6 +8,7 @@ Contenido del curso
 * Buenas practicas
 * Creado por el increible Platzi team
 * Incluye ejemplos en Windows, Linux y Max
+* Disponible para todas las edades
 
 [Proyecto del curso](https://edsenxx.github.io/hyperblog/)
 
