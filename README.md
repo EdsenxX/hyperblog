@@ -7,6 +7,7 @@ Contenido del curso
 * El flujo de trabajo en Github
 * Buenas practicas
 * Creado por el increible Platzi team
+* Incluye ejemplos en Windows, Linux y Max
 
 [Proyecto del curso](https://edsenxx.github.io/hyperblog/)
 
